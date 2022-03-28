@@ -1,0 +1,9 @@
+{
+  "shared": {
+    "required": "The value for the { field } field is required",
+    "unique": "The { field } field is already in use",
+    "minLength": "The { field } field must have at least { minLength } characters",
+    "maxLength": "The { field } field must have no more than { maxLength } characters",
+    "string": "The { field } field must be of type text"
+  }
+}
